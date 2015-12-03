@@ -1,3 +1,5 @@
+![](https://raw.githubusercontent.com/wr/figma-mac/master/extras/Example.png)
+
 # Figma for Mac (unofficial)
 
 This is an [Electron](https://github.com/atom/electron) wrapper for [Figma](https://figma.com). It lets you install Figma on your Mac and easily access it from the Dock instead of your web browser.

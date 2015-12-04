@@ -29,6 +29,8 @@ This project is far from finished. I created it because I prefer desktop apps ov
 
 If you have experience with Node and / or Electron, and would like to help make this app cleaner, leaner, faster, and more reliable with me, please submit a PR or email me at wells.riley@me.com with "Figma for Mac" somewhere in the subject line. Should be pretty fun!
 
+![](http://wellsosaur.us/dzqG/figma-icon.png)
+
 ## Troubleshooting
 
 ¯\_(ツ)_/¯

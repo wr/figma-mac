@@ -15,4 +15,22 @@ I'm not really a Node developer, so this is just a basic implementation. There a
 
 ## How to Install
 
-1.
+1. Download the latest [Release](https://github.com/wr/figma-mac/releases/) from GitHub, unzip, and drag to your Applications folder.
+
+2. Launch the app.
+
+3. Log in with your Figma credentials.
+
+4. Party hardy.
+
+## I need help!
+
+This project is far from finished. I created it because I prefer desktop apps over webapps, and I wanted to give Figma a try. So far, I think it shows tons of promise.
+
+If you have experience with Node and / or Electron, and would like to help make this app cleaner, leaner, faster, and more reliable with me, please submit a PR or email me at wells.riley@me.com with "Figma for Mac" somewhere in the subject line. Should be pretty fun!
+
+## Troubleshooting
+
+¯\_(ツ)_/¯
+
+Figma is still in beta, and so is this Mac app. Stuff will probably break. Feel free to [submit a GitHub issue](https://github.com/wr/figma-mac/issues) or [contact the official Figma support line](https://www.figma.com/contact) if you need help.

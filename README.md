@@ -34,3 +34,12 @@ If you have experience with Node and / or Electron, and would like to help make 
 ¯\_(ツ)_/¯
 
 Figma is still in beta, and so is this Mac app. Stuff will probably break. Feel free to [submit a GitHub issue](https://github.com/wr/figma-mac/issues) or [contact the official Figma support line](https://www.figma.com/contact) if you need help.
+
+## Building it yourself
+
+1. Download [Electron](https://github.com/atom/electron) via NPM (`electron-prebuilt`)
+2. `cd` to this repo on your Mac, make whatever changes you like, and run `electron .` to run a live preview of your Figma app.
+3. To package the app as a binary, download [electron-packager](https://github.com/maxogden/electron-packager) and run it:
+```
+electron-packager figma Figma --platform=darwin --arch=x64 --version=0.35.2 --app-version=[your-version] --icon='figma/extras/atom.icns'
+```

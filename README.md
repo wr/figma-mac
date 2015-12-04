@@ -41,7 +41,7 @@ Figma is still in beta, and so is this Mac app. Stuff will probably break. Feel 
 
 1. Download [Electron](https://github.com/atom/electron) via NPM (`electron-prebuilt`)
 2. `cd` to this repo on your Mac, make whatever changes you like, and run `electron .` to run a live preview of your Figma app.
-3. To package the app as a binary, download [electron-packager](https://github.com/maxogden/electron-packager) and run it:
+3. To package the app as a binary, download [electron-packager](https://github.com/maxogden/electron-packager) and run it from the directory above the repo:
 ```
 electron-packager figma Figma --platform=darwin --arch=x64 --version=0.35.2 --app-version=[your-version] --icon='figma/extras/atom.icns'
 ```

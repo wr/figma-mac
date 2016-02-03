@@ -27,6 +27,12 @@ app.on('ready', function() {
   // and load the index.html of the app.
   mainWindow.loadURL('https://figma.com/login');
 
+  // open _blank links in same window
+  mainWindow.webContents.on('new-window', function(e, url) {
+    e.preventDefault();
+    mainWindow.loadURL(url);
+  });
+
   // Open the DevTools.
   // mainWindow.webContents.openDevTools();
 

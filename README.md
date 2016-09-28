@@ -4,6 +4,10 @@
 
 The old readme continues below for posterity. *Thank you* Figma team for releasing an official desktop client! :)
 
+
+
+----------------
+
 ![](https://raw.githubusercontent.com/wr/figma-mac/master/extras/Example.png)
 
 # Figma for Mac (unofficial)

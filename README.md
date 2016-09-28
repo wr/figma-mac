@@ -1,6 +1,6 @@
 # DEPRECATED - Figma launched their own desktop app.
 
-[![](http://wellsosaur.us/hc7E/Figma-16.png) Download Figma](https://www.figma.com/downloads)
+[![](http://wellsosaur.us/hc7E/Figma-16.png) Download Figma](https://www.figma.com/downloads) (official desktop app)
 
 The old readme continues below for posterity. *Thank you* Figma team for releasing an official desktop client! :)
 
